@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mirror-controller/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/mirror-controller/static/js/main.e38e6789.chunk.js",
+    "main.js.map": "/mirror-controller/static/js/main.e38e6789.chunk.js.map",
+    "runtime-main.js": "/mirror-controller/static/js/runtime-main.0bfabd63.js",
+    "runtime-main.js.map": "/mirror-controller/static/js/runtime-main.0bfabd63.js.map",
+    "static/js/2.4804e2f0.chunk.js": "/mirror-controller/static/js/2.4804e2f0.chunk.js",
+    "static/js/2.4804e2f0.chunk.js.map": "/mirror-controller/static/js/2.4804e2f0.chunk.js.map",
+    "index.html": "/mirror-controller/index.html",
+    "precache-manifest.dd4e018b1d1cd0f854118ef1d4738c8d.js": "/mirror-controller/precache-manifest.dd4e018b1d1cd0f854118ef1d4738c8d.js",
+    "service-worker.js": "/mirror-controller/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/mirror-controller/static/css/main.d498bfb3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bfabd63.js",
+    "static/js/2.4804e2f0.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.e38e6789.chunk.js"
+  ]
+}
